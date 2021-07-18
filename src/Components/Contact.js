@@ -9,7 +9,7 @@ const Contact = ({ data }) => {
   if (data) {
     var contactName = data.name;
     var street = data.address.street;
-    var city = data.address.city;
+    var contry = data.address.contry;
     var state = data.address.state;
     var zip = data.address.zip;
     var phone = data.phone;
@@ -127,7 +127,7 @@ const Contact = ({ data }) => {
               <br />
               <br />
               {street} <br />
-              {city}, {state} {zip}
+              {contry}, {state} {zip}
               <br />
               <span>{phone}</span>
             </p>
