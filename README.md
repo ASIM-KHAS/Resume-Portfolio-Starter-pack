@@ -2,7 +2,7 @@
 
 ![PAPA React JS Portfolio Starter Pack](Screenshot.jpg?raw=true "PAPA React JS Portfolio Stater Pack ")
 
-### <a href="https://resume-portfolio-starter-pack.herokuapp.com" style="color:grey;">LIVE DEMO</a>
+### <a href="https://resume-portfolio-starter-pack.herokuapp.com" >LIVE DEMO</a>
 
 ## Resume Starter Pack Description
 
